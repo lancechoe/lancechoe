@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+SA+Hand&weight=600&size=19&pause=1000&color=FFFFFF&background=080F3188&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Tae-Woong+Choe+(+Lance+Choe+))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+SA+Hand&weight=600&size=19&pause=1000&color=000000&background=080F3100&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Tae-Woong+Choe+(+Lance+Choe+))](https://git.io/typing-svg)
 
 
 <div align="center">
