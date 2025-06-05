@@ -1,6 +1,6 @@
-<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&pause=1000&color=188AF7&width=435&lines=Hi%2C+I'm+Tae-Woong+Choe;or+you+can+call+me+%22Lance%22)](https://git.io/typing-svg)
-</div>
+
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
