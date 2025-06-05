@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=31AAF7&width=435&lines=Hi%2C+I'm+Tae-Woong+Choe;(or+you+can+call+me+%22Lance%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&pause=1000&color=188AF7&width=435&lines=Hi%2C+I'm+Tae-Woong+Choe;(or+you+can+call+me+%22Lance%22))](https://git.io/typing-svg)
 
 <!--
 **lancechoe/lancechoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
